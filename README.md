@@ -13,3 +13,9 @@
 编辑 mail.properties
 .\sendMail
 ```
+
+## fileServer
+支持远程客户端通过wget下载本地的文件
+```
+.\fileServer
+```
