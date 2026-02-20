@@ -19,3 +19,9 @@
 ```
 .\fileServer
 ```
+
+## ftpServer
+支持远程客户端通过ftp下载本地的文件
+```
+.\ftpServer
+```
